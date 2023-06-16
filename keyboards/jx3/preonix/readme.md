@@ -2,7 +2,7 @@
 
 ![Preonix - a custom preonic build](https://i.imgur.com/q2M3uEU.jpg)
 
-A compact 40% (12x4) ortholinear keyboard kit made and sold by OLKB and Massdrop. [More info on qmk.fm](https://qmk.fm/planck/)
+A compact 40% (12x5) ortholinear keyboard kit made and sold by OLKB and Massdrop. [More info on qmk.fm](https://qmk.fm/planck/)
 
 * Keyboard Maintainer: [Jack Humbert](https://github.com/jackhumbert)
 * Hardware Supported: Planck PCB rev1, rev2, rev3, rev4, Teensy 2.0
