@@ -1,19 +1,19 @@
 {
     "manufacturer": "Jerrin James",
     "keyboard_name": "Preonix",
-    "url": "https://jx3design.net",
+    "url": "https://jx3design.net/preonix",
     "maintainer": "jerrinjms",
     "usb": {
         "vid": "0x4155",
         "pid": "0x4130",
         "device_version": "1.0.0"
     },
-    "diode_direction": "COL2ROW",
+    "diode_direction": "ROW2COL",
     "processor": "atmega32u4",
     "bootloader": "atmel-dfu",
     "matrix_pins": {
-        "cols": ["D3", "D2", "D1", "D0", "D4", "C6", "D7", "E6", "B4", "B5", "B6", "B2"],
-        "rows": ["B1", "F7", "B3", "F6", "F5"]
+        "cols": ["C6", "D7", "E6", "B4", "B5", "B6", "B2", "B3", "B1", "F7", "F6", "F5"],
+        "rows": ["D3", "D2", "D1", "D0", "D4"]
     },
     "community_layouts": ["ortho_5x12"],
     "layout_aliases": {

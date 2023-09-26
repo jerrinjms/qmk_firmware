@@ -2,15 +2,15 @@
 
 ![Preonix - a custom preonic build](https://i.imgur.com/q2M3uEU.jpg)
 
-A compact 40% (12x5) ortholinear keyboard kit made and sold by OLKB and Massdrop. [More info on qmk.fm](https://qmk.fm/planck/)
+A compact 40% (12x5) ortholinear DIY keyboard kit designed and sold by JX3 Design. [More info on JX3 Design](https://jx3design.net/preonix/)
 
-* Keyboard Maintainer: [Jack Humbert](https://github.com/jackhumbert)
-* Hardware Supported: Planck PCB rev1, rev2, rev3, rev4, Teensy 2.0
-* Hardware Availability: [OLKB.com](https://olkb.com), [Massdrop](https://www.massdrop.com/buy/planck-mechanical-keyboard?mode=guest_open)
+* Keyboard Maintainer: [Jerrin James](https://github.com/jerrinjms)
+* Hardware Supported: Preonix PCB rev1
+* Hardware Availability: [JX3 Design](https://jx3design.net/proenix)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make planck/rev4:default
+    qmk compile -kb jx3/preonix -km default
 
 Flashing example for this keyboard:
 
